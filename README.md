@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [alderian.tk](https://alderian.tk)
 
-- 📫 How to reach me **Submit an issue here**
+- 📫 How to reach me **[submitting an issue here](https://github.com/Alderian/alderian/issues)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
