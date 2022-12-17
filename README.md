@@ -7,18 +7,18 @@
 
 - 🌱 I’m currently learning **Blockchain and Solidity development**
 
-- 👨‍💻 All of my projects are available at [alderian.tk](https://alderian.tk)
+- 👨‍💻 All of my projects and thoughts are available at [alderian.tk](https://alderian.tk)
 
 - 📫 How to reach me **[submitting an issue here](https://github.com/Alderian/alderian/issues)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/alderianannatar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alderianannatar" height="30" width="40" /></a>
+<a href="https://hashnode.com/@alderian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@alderian" height="30" width="40" /></a>
 <a href="https://codepen.io/alderian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alderian" height="30" width="40" /></a>
 <a href="https://dev.to/alderian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alderian" height="30" width="40" /></a>
-<a href="https://twitter.com/alderianannatar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alderianannatar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5243830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5243830" height="30" width="40" /></a>
 <a href="https://codesandbox.com/alderian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alderian" height="30" width="40" /></a>
-<a href="https://hashnode.com/@alderian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@alderian" height="30" width="40" /></a>
 <a href="https://medium.com/@alderian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alderian" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/alderian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alderian" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@alderian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@alderian" height="30" width="40" /></a>
