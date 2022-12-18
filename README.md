@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blockchain and Solidity development**
 
-- 👨‍💻 All of my projects and thoughts are available at [alderian.tk](https://alderian.tk)
+- 👨‍💻 All of my projects and blog at [alderian.tk](https://alderian.tk)
 
 - 📫 How to reach me **[submitting an issue here](https://github.com/Alderian/alderian/issues)**
 
