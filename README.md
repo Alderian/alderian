@@ -43,9 +43,10 @@ If you like this README.md give me a ⭐
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alderian&mode=weekly&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Alderian&show_icons=true&locale=en&langs_count=8&layout=compact)
 
+<!--
 <div align="right">
 <a href="https://ko-fi.com/alderian" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" align="center" /></a>
 </div>
 <br />
-
+-->
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=alderian" alt="Alderian Profile visits" /></div>
