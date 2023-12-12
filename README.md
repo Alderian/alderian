@@ -18,7 +18,7 @@ If you like this README.md give me a ⭐
 
 - 🌱 I’m currently learning **Blockchain and Solidity development**
 
-- 👨‍💻 All of my projects [here][github] and in blog format at [alderian.tk](https://alderian.tk)
+- 👨‍💻 All of my projects [here][github]
 
 - ⚡ Fun fact **I like Anime & old Sci-Fi retro movies**
 
